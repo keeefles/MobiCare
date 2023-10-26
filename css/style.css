@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+ 
+}
+.nav-item {
+    margin-top: 25px;
+    margin-left: 40px;
+    padding-right: 20px;
+}
